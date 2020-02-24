@@ -15,7 +15,7 @@ public class RegisterBean {
 	private String gender;
 	private Date regDate;
 	
-	//--default constrcutor--
+	//--default constructor--
 	public RegisterBean() {
 		super();
 		// TODO Auto-generated constructor stub

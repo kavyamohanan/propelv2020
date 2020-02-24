@@ -2,17 +2,17 @@ package com.mvc.bean;
 
 public class LoginBean {
 
-	//instance variables
+	//---instance variables
 	private String userName;
 	private String password;
 
-	//default Constructor
+	//---default Constructor
 	public LoginBean() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
 
-	//parameterized constructor
+	//---parameterized constructor
 	public LoginBean(String userName, String password) {
 		super();
 		this.userName = userName;
