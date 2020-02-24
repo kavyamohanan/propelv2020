@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class RegisterBean {
 
+	//--instance variables--
 	private Integer slNo;
 	private String fullName;
 	private String email;
@@ -14,6 +15,7 @@ public class RegisterBean {
 	private String gender;
 	private Date regDate;
 	
+	//--default constrcutor--
 	public RegisterBean() {
 		super();
 		// TODO Auto-generated constructor stub
